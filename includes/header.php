@@ -21,7 +21,7 @@ session_start();
 
         <header>
             <div class="container">
-                <a href="index.php"><img src="img/logo.jpg" alt="logo" class="logo" style="width: 160px;height: 45px;" ></a>
+                <a href="index.php"><img src="img/newlogo.jpg" alt="logo" class="logo" style="width: 120px;height: 120px;" ></a>
 
 
                 <nav class="navbar">
