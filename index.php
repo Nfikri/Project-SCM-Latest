@@ -5,17 +5,17 @@ include './includes/header.php';
 <div class="slideshow-container">
     <div class="slides">
         <div class="number">1/3</div>
-        <div class="slides-images"><img src="img/slideshow/store.jpg"/></div>
+        <div class="slides-images"><img src="img/slideshow/hero.jpg"/></div>
 
     </div>
     <div class="slides">
         <div class="number">2/3</div>
-        <div class="slides-images"><img src="img/slideshow/bag.jpg"/></div>
+        <div class="slides-images"><img src="img/slideshow/output-onlinepngtools.png"/></div>
 
     </div>
     <div class="slides">
         <div class="number">3/3</div>
-        <div class="slides-images"><img src="img/slideshow/delivery.jpg"/></div>
+        <div class="slides-images"><img src="img/slideshow/library1ijat.png"/></div>
 
     </div>
     <a class="prev" onclick="plusIndex(-1)">&#10094;</a>
@@ -44,77 +44,77 @@ include './includes/header.php';
             </div>
             <div style="margin:0 auto; width:50%; float: left;">
                 <p style="padding: 26px 0 0 15px;">
-                    <b>Best Selling Hardware</b>
+                    <b>Popular Items</b>
                 </p>
             </div>
 
         </div>
         <div>
             <div id="satu" class="square" style="width: 50%; border: 2px solid #8b0434;">
-                <img src="img/products/Hedge Shear Cutter.png" alt=""/>
+                <img src="img/products/EntForEveryone.png" alt=""/>
             </div>
             <div id="dua" style="margin: 0 auto; padding: 10px 0 0 15px;">
                 <p>
                 <h4>#1</h4>
                 </p>
                 <p>
-                    <b>Hedge Shear Cutter</b>
+                    <b>Entreprenurship For Everyonee</b>
                 </p>
             </div>
 
         </div>
         <div>
             <div id="satu" class="square" style="width: 50%;border: 2px solid #8b0434;">
-                <img src="img/products/Claw Hammer.png" alt=""/>
+                <img src="img/products/Khairi.png" alt=""/>
             </div>
             <div id="dua" style="margin: 0 auto; padding: 10px 0 0 15px;">
                 <p>
                 <h4>#2</h4>
                 </p>
                 <p>
-                    <b>Claw Hammer</b>
+                    <b>Adam Ramlee</b>
                 </p>
             </div>
 
         </div>
         <div>
             <div id="satu" class="square" style="width: 50%;border: 2px solid #8b0434;">
-                <img src="img/products/Water Pump Pliers.png" alt=""/>
+                <img src="img/products/TheStand.png" alt=""/>
             </div>
             <div id="dua" style="margin: 0 auto; padding: 10px 0 0 15px;">
                 <p>
                 <h4>#3</h4>
                 </p>
                 <p>
-                    <b>Water Pump Pliers</b>
+                    <b>The Stand</b>
                 </p>
             </div>
 
         </div>
         <div>
             <div id="satu" class="square" style="width: 50%;border: 2px solid #8b0434;">
-                <img src="img/products/2 Way Tap.png" alt=""/>
+                <img src="img/products/StoryOfSuccess.png" alt=""/>
             </div>
             <div id="dua" style="margin: 0 auto; padding: 10px 0 0 15px;">
                 <p>
                 <h4>#4</h4>
                 </p>
                 <p>
-                    <b>2 Way Tap</b>
+                    <b>The Story Of Sucess</b>
                 </p>
             </div>
 
         </div>
         <div>
             <div id="satu" class="square" style="width: 50%;border: 2px solid #8b0434;">
-                <img src="img/products/Voltage Tester Screwdriver.png" alt=""/>
+                <img src="img/products/Python.png" alt=""/>
             </div>
             <div id="dua" style="margin: 0 auto; padding: 10px 0 0 15px;">
                 <p>
                 <h4>#5</h4>
                 </p>
                 <p>
-                    <b>Voltage Tester Screw</b>
+                    <b>Python Cookbook</b>
                 </p>
             </div>
 
@@ -131,7 +131,7 @@ include './includes/header.php';
     
         </div>
         
-        <u><h1 style="text-align: center;font-weight: bold">We are hiring!</h1></u>
+        <u><h1 style="text-align: center;font-weight: bold">In Need of Additional Librarian!!</h1></u>
         <div style="width: 600px;margin: 0 auto;">
             <p align="justify"> 
             Oporteat volutpat postulant sed et, qui ea accumsan volutpat iudicabit, ex sea partem iracundia. Ad vituperata mediocritatem duo, omnes nominati eu pri. Elit aliquam in est, ex causae laoreet democritum duo. Te doctus tritani qui, doctus debitis complectitur at usu, deseruisse dissentias in cum. Prompta quaeque nec no, an eum vide ferri, quo ne duis fastidii.
